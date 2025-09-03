@@ -48,6 +48,4 @@ As a future work, the number of data which is used to train the CNN model can be
 network can be restructures so that it will be able to analyze images in more detail.
 
 Best Regards.
-F.Rabia Yapicioglu.
-
-© 2019 ArcticAI. All rights reserved.
+Aman Kumar Rai
